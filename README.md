@@ -1,6 +1,6 @@
 # tas_kagit_makas
 
-A new Flutter project.
+Bilgisayarla karşılıklı oynayabileceğiniz basit bir taş kağıt makas oyunu.
 
 ## Getting Started
 
